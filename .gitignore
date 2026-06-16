@@ -1,0 +1,8 @@
+# Ignore the large data files
+*.tsv
+data/*.csv
+
+# Ignore system files
+.DS_Store
+__pycache__/
+.venv/
